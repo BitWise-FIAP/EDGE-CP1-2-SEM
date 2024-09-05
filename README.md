@@ -1,8 +1,11 @@
 # Projeto de Monitoramento de Luminosidade com ESP32 e FIWARE
 
 **Bruno Biletsky** - RM: 554739
+
 **Enrico Ricarte** - RM: 558571
+
 **Victor Freire** - RM: 556191
+
 **Pedro Gaspar** - RM: 554887
 
 ## Introdução
