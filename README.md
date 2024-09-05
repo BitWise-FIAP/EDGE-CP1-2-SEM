@@ -6,8 +6,6 @@
 
 **Victor Freire** - RM: 556191
 
-**Pedro Gaspar** - RM: 554887
-
 ## Introdução
 O **Projeto de Monitoramento de Luminosidade com ESP32 e FIWARE** é uma iniciativa inovadora que explora a integração entre computação na borda e na nuvem para o monitoramento em tempo real das condições ambientais. Utilizando o módulo **ESP32 DOIT Devkit V1** e a plataforma **FIWARE**, o projeto coleta dados de luminosidade através de um sensor LDR (Light Dependent Resistor) e os transmite para uma instância do FIWARE Context Broker hospedada na **AWS (Amazon Web Services)**.
 
