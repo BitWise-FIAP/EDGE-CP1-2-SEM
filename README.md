@@ -40,6 +40,7 @@ O objetivo principal deste projeto é demonstrar a eficácia e a funcionalidade 
 - **Coleta de Dados em Tempo Real**: O sensor LDR mede continuamente a luminosidade do ambiente e transmite essas informações para o FIWARE.
 - **Análise na Nuvem**: A plataforma FIWARE processa os dados recebidos, oferecendo ferramentas para análise e visualização detalhada das informações de luminosidade.
 - **Arquitetura Edge-to-Cloud**: Demonstra a eficácia da combinação entre processamento local e armazenamento na nuvem, permitindo um gerenciamento de dados mais eficiente.
+- **Alterar o estado do LED**: É possível ligar e desligar o LED do ESP32 através de publicações via Postman. (espécie de smart lamp) 
 
 ## Resultados Esperados
 Esperamos que este projeto evidencie a eficácia da arquitetura de edge computing na coleta e gerenciamento de dados em tempo real. Além disso, destacamos a capacidade do FIWARE em integrar e processar informações provenientes de diferentes fontes. O projeto visa ilustrar como a combinação de tecnologias modernas pode criar soluções inteligentes e eficazes para o monitoramento ambiental.
